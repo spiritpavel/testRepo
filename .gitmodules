@@ -1,0 +1,3 @@
+[submodule "modules/mod01"]
+	path = modules/mod01
+	url = https://github.com/spiritpavel/testRepo.git
